@@ -4,7 +4,7 @@ Bu, kullanıcıların belirli bir şehir için mevcut hava koşullarını kontro
 
 ## Ekran Görüntüleri
 <p align="center">
-  <img src="https://github.com/Mertalkann/InfiniTalks/blob/main/client/src/img/video.gif" alt="gif">
+  <img src="https://github.com/Mertalkann/WEB-WeatherApp/images/gif.gif" alt="gif">
 </p>
 
 ## Kullanım
